@@ -72,17 +72,21 @@ and Aunty Tongue English.
 
 ---
 
-> Once you are clear about
->
-> what you are doing and why, 
->
-> other people's opinions 
-> 
-> will not matter.
->  
-> ---- Sadhguru
+<section data-background-video="https://enhance42.com/assets/bharat-lang/telugu_lang_demo.mp4" 
+          data-background-video-loop data-background-video-muted>
 
 
 ---
 
-Let's simply do it.
+## The direction
+
+[Bharat Programming Languages?](https://rohinibarla.com/posts/bharat-programming-languages/)
+
+[Bharat means?](https://youtu.be/mTCMRRotCA4)
+
+---
+
+>Once you are clear about what you are doing and why, other people's opinions will not matter.
+>  
+> ---- Sadhguru
+
