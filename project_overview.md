@@ -8,7 +8,7 @@ we are launching
 
 new programming languages 
 
-for people of Bhārat.
+for people of Bharat.
 
 ---
 
@@ -20,7 +20,7 @@ five programming languages
 
 that use the script of 
 
-Bhārat languages
+Bharat languages
 
 ---
 
